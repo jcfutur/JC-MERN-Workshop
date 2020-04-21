@@ -5,7 +5,7 @@
   "engines": {
     "node": "10"
   },
-  "homepage": "https://mern-workshop.appspot.com/",
+  "homepage": "https://mern-workshop.appspot1.com/",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://github.com/jcfutur/JC-MERN-Workshop.git"
+    "url": "git+https://github.com/jcfutur/JC-MERN-Workshop.git"
   },
   "author": "",
   "license": "ISC",
