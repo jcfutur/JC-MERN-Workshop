@@ -1,0 +1,31 @@
+{
+  "name": "jc-mern-workshop",
+  "version": "1.0.0",
+  "description": "You'll need these two thing since node.js is the programming language we'll be using",
+  "engines": {
+    "node": "10"
+  },
+  "homepage": "https://mern-workshop.appspot.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/jcfutur/JC-MERN-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bug": {
+    "url": "https://github.com/jcfutur/JC-MERN-Workshop/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dot-env": "0.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "path": "^0.12.7"
+  }
+}
